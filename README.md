@@ -1,4 +1,4 @@
-# k8s-proxmox-automation
+# k8s-automation
 # FR
 # Script de Déploiement Nginx avec Ingress
 
