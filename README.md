@@ -7,7 +7,6 @@ Ce script automatise le processus de déploiement d'une application Nginx sur un
 
 ## README
 
-```markdown
 # Script de Déploiement Nginx avec Ingress
 
 Un script bash interactif pour déployer facilement Nginx avec Ingress sur Kubernetes.
@@ -84,7 +83,6 @@ helm uninstall nginx-ingress
 ## Licence
 
 MIT
-```
 
 ## Description (pour documentation ou marketing)
 
@@ -108,7 +106,6 @@ This script automates the process of deploying an Nginx application and a Kubern
 
 ## README
 
-```markdown
 ## Features
 
 - Deploy Nginx with customizable parameters
@@ -181,7 +178,6 @@ helm uninstall nginx-ingress
 ## License
 
 MIT
-```
 
 ## Description (for documentation or marketing)
 
