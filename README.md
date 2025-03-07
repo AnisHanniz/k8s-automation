@@ -1,8 +1,5 @@
 # k8s-automation
 # FR
-# Script de Déploiement Nginx avec Ingress
-
-Un script interactif simple pour déployer Nginx et Ingress et Kubernetes.
 
 ## Aperçu
 
